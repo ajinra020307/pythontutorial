@@ -28,6 +28,8 @@ def makesecondset(array,allowed,min,max):
      for num in range(min,max):
         for n in range(min,max):
             randomnum=allowed[random.randint(0,len(allowed)-1)]
+            def verify():
+
             allowed.remove(randomnum)
             array[num].append(randomnum)
 
