@@ -7,7 +7,7 @@ def getquiz():
 
 def write():
     data=getquiz()
-    file=open('quiz.txt','w+')
+    file=open('quiz.txt','a+')
 
     for question in data:
         q=question['question']

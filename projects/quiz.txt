@@ -1,50 +1,100 @@
-Q:What number does the Roman numeral &quot;D&quot; stand for? 
+Q:What breed of dog was Marley in the film &quot;Marley &amp; Me&quot; (2008)? 
 
- Answer:500
-
-
-Q:Which anime heavily features music from the genre &quot;Eurobeat&quot;? 
-
- Answer:Initial D
+ Answer:Labrador Retriever
 
 
-Q:What is the name of the final boss in Turok: Dinosaur Hunter? 
+Q:Which naval battle was considered the turning point of the Pacific Ocean Theater during World War 2? 
 
- Answer:The Campaigner
-
-
-Q:In &quot;Shakugan no Shana&quot; what was the Shana usually referred as? 
-
- Answer:Flame-Haired Burning-Eyed Hunter
+ Answer:Battle of Midway
 
 
-Q:Which Italian automobile manufacturer gained majority control of U.S. automobile manufacturer Chrysler in 2011? 
+Q:Which retired American football quarterback played himself in &#039;Ace Ventura: Pet Detective&#039; and &#039;Little Nicky&#039;? 
 
- Answer:Fiat
-
-
-Q:In the beta version of the 1986 game &quot;The Legend of Zelda&quot;, players have the choice between a sword and what other item? 
-
- Answer:Boomerang 
+ Answer:Dan Marino
 
 
-Q:What is the correct term for the metal object in between the CPU and the CPU fan within a computer system? 
+Q:Which song is not by TheFatRat? 
 
- Answer:Heat Sink
-
-
-Q:What breed of dog is &quot;Scooby Doo&quot;? 
-
- Answer:Great Dane
+ Answer:Ascent
 
 
-Q:In the game &quot;Red Dead Redemption&quot;, what is the name of John Marston&#039;s dog? 
+Q:Which car is the first mass-produced hybrid vehicle? 
 
- Answer:Rufus
+ Answer:Toyota Prius
 
 
-Q:What is the capital city of Slovenia? 
+Q:What is a dead mall? 
 
- Answer:Ljubljana
+ Answer:A mall with high vacancy rates or low consumer foot traffic
+
+
+Q:According to a song by Belinda Carlisle, Heaven is a place on what? 
+
+ Answer:Earth
+
+
+Q:In what Anno game did the eco balance an part of the game play? 
+
+ Answer:Anno 2070
+
+
+Q:Who played the Cenobite called &quot;Pinhead&quot; in the original Hellraiser films? 
+
+ Answer:Doug Bradley
+
+
+Q:In Haikyuu!!, who is not a member of Karasuno VBC? 
+
+ Answer:Shigeru Yahaba
+
+
+Q:How many people can you recruit in the game Suikoden in a single playthrough? 
+
+ Answer:107
+
+
+Q:Which English football club has the nickname &#039;The Foxes&#039;? 
+
+ Answer:Leicester City
+
+
+Q:In Need For Speed Most Wanted (2005), what do you drive at the beginning of the career mode? 
+
+ Answer:BMW M3 GTR
+
+
+Q:In PROTOTYPE 2. who is referred to as &quot;Tango Primary&quot;? 
+
+ Answer:James Heller
+
+
+Q:What year is considered to be the year that the British Empire ended? 
+
+ Answer:1997
+
+
+Q:How many calories are in a 355 ml can of Pepsi Cola? 
+
+ Answer:150
+
+
+Q:The 2016 Disney animated film &#039;Moana&#039; is based on which culture? 
+
+ Answer:Polynesian
+
+
+Q:The character Plum from &quot;No Game No Life&quot; is of what race? 
+
+ Answer:Dhampir
+
+
+Q:In what year did the manga &quot;Ping Pong&quot; begin serialization? 
+
+ Answer:1996
+
+
+Q:Who is the lead singer of the Smashing Pumpkins? 
+
+ Answer:Billy Corgan
 
 
