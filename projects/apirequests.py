@@ -6,6 +6,7 @@ url='https://opentdb.com/api.php?amount=10&type=multiple'
 originaldata={}
 choicearray=[]
 userchoice=[]
+
 def getUsers(url):
     print('......loading')
     response=requests.get(url=url)
