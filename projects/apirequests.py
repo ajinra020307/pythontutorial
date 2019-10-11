@@ -1,5 +1,6 @@
 import requests
 import random
+import os
 
 url='https://opentdb.com/api.php?amount=10&type=multiple'
 originaldata={}
@@ -15,6 +16,7 @@ def getUsers(url):
 originaldata=getUsers(url)
 
 def ask(data,choicearray):
+    
     for index in range(len(data)):
         q='''
          Question.no:{qno}\n
@@ -50,7 +52,7 @@ def ask(data,choicearray):
         if four==correct_answer:
             correctchoice=4
         choicearray.append(correctchoice)
-        
+        os.system('cls')
         print(q.format(qno=index+1,question=data[index]['question'],category=data[index]['category'],one=one,two=two,three=three,four=four))
 
         answer=int(input(' '))
@@ -65,4 +67,4 @@ for num in range(len(choicearray)):
   if(choicearray[num]==userchoice[num]):
       userscore+=1
 
-print('userscore is {score}'.format(score=userscore))
+print('You have answered {score} questions correctly'.format(score=userscore))

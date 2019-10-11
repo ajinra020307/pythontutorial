@@ -1,5 +1,4 @@
 numbers=[]
-
 def createnumlist(array):
     for num in range(0,101):
         if num%2==0:
