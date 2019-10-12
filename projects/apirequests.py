@@ -16,6 +16,8 @@ def getUsers(url):
 
 originaldata=getUsers(url)
 
+
+
 def ask(data,choicearray):
     
     for index in range(len(data)):
