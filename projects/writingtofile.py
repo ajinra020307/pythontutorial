@@ -12,7 +12,7 @@ def write():
     for question in data:
         q=question['question']
         ans=question['correct_answer']
-        file.write('Q:{q} \n\n Answer:{ans}\n\n\n'.format(q=q,ans=ans))
+        file.write('Q:{q} \n\n Answer:{ans} \n\n\n'.format(q=q,ans=ans))
     file.close()
 write()
 
